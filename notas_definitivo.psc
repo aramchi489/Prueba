@@ -1,4 +1,4 @@
-Algoritmo notas_definitivo
+Algoritmo notas_definitivo//Este es un programa que comprueba notas
 	Definir i,j,k,l,n_alu como Entero;
 	Definir acum,media_curso,media_alu como Real;
 	Definir notas como Real;
